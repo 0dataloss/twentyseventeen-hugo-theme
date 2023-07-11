@@ -1,0 +1,8 @@
+name = "TwentySeventeen Hugo Theme"
+license = "MIT"
+description = "A Hugo theme inspired by the Twenty Seventeen WordPress theme"
+homepage = "https://github.com/0dataloss/twentyseventeen-hugo-theme"
+
+[author]
+name = "Matteo Castellani"
+homepage = "https://github.com/0dataloss"
